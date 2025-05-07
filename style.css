@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .hero {
+    padding: 60px 0;
+  }
+  
+  .hero h1 {
+    font-weight: bold;
+  }
+  
+  .btn-pink {
+    background-color: #FEE4E2;
+    color: black;
+    border: none;
+  }
+  
+  .btn-pink:hover {
+    background-color: #fdd5d2;
+  }
+  
+  .rating-box {
+    background-color: #FEE4E2;
+    padding: 10px 15px;
+    border-radius: 10px;
+    display: inline-block;
+  }
+  
+  .img-container {
+    background-color: #FEE4E2;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .img-container img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
